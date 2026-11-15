@@ -8,11 +8,6 @@ class Solution(object):
             else:
                 num2+=i
         return num1 - num2
-        
-        
-        
-
-        return num1-num2
         """
         :type n: int
         :type m: int
